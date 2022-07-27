@@ -31,6 +31,8 @@ dimwishlist:item=507038823&perks=839105230,1885400500,2450788523,588594999
 ПРЕВОСХОДНОЕ ИСПОЛНЕНИЕ
 dimwishlist:item=1097616550&perks=1482024992,3142289711,1168162263,3425386926
 
+
+
 //ЭПИТАФИЯ ВЫЖИВШЕГО PVE 
 
 dimwishlist:item=310708513&perks=839105230,1885400500,247725512,1015611457
@@ -52,7 +54,7 @@ dimwishlist:item=310708513&perks=839105230,1885400500,2779035018,2458213969
 dimwishlist:item=310708513&perks=839105230,1885400500,706527188,588594999
 
 // Syncopation-53
-//notes:pandapaxxy (PvE / M+KB / Controller): "Syncopation is in an interesting spot right now. It competes with Eyasluna, the previous best headstone weapon while also being able to make crystals, but from further ranges. Being a pulse rifle puts it in a better spot for range and having multiple bullets per burst rivals hand cannon’s big single shot damage. The unfortunate part is no rapid hit to maximize the weapons feel, but it does have some incredible utility with stasis builds and general crystal shattering." Recommended MW - Reload.|tags:pve,mkb,controller
+//мой комментарий
 dimwishlist:item=2856514843&perks=1840239774,1087426260,1168162263,1546637391
 dimwishlist:item=2856514843&perks=839105230,1087426260,1168162263,1546637391
 dimwishlist:item=2856514843&perks=1482024992,1087426260,1168162263,1546637391
